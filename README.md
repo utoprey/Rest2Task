@@ -2,6 +2,8 @@
 
 # Resting State to Task-based fMRI Generator
 
+<img src="pics/logo_git.jpg" alt="Logo" width="800">
+
 ## Overview
 
 This repository provides a tool for generating task-based functional Magnetic Resonance Imaging (fMRI) data from resting-state fMRI (rs-fMRI) using image-to-image mapping. The primary objective is to create task-related connectivity matrices, simulating different tasks, as included in the Human Connectome Project (HCP) dataset.
@@ -30,7 +32,7 @@ To get started with using this tool, follow the instructions provided in the [Do
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [Skoltech Academic License](https://skoltech.link.sendsay.ru/skoltech/5934,=0eFJuHmzJ2ZpovBFJQumjvg/8326,2649009,104417,?aHR0cHM6Ly93d3cuc2tvbHRlY2gucnUvYXBwL2RhdGEvdXBsb2Fkcy8yMDIzLzA5L1NBTF92LjEuMF9FTi5wZGY=).
 
 ## Acknowledgments
 
