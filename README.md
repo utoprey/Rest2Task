@@ -1,8 +1,4 @@
-# Generate-task-based-fMRI-using-resting-state-fMRI-image-to-image-task-
-
-# Resting State to Task-based fMRI Generator
-
-<img src="pics/logo_git.jpg" alt="Logo" width="800">
+# Rest2Task: <a href=""><img src="pics/logo_git.jpg" align="right" width="150" ></a>  <h3> Generate-task-based-fMRI-using-resting-state-fMRI-image-to-image-task-Resting State to Task-based fMRI Generator </h3>
 
 ## Overview
 
