@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository provides a tool for generating task-based functional Magnetic Resonance Imaging (fMRI) data from resting-state fMRI (rs-fMRI) using image-to-image mapping. The primary objective is to create task-related connectivity matrices, simulating different tasks, as included in the Human Connectome Project (HCP) dataset.
+This repository provides a tool for generating task-based functional Magnetic Resonance Imaging (fMRI) data from resting-state fMRI (rs-fMRI) using image-to-image mapping. The primary objective is to create task-related connectivity matrices, simulating different tasks, as included in the [Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) dataset.
 
 ## Motivation
 
