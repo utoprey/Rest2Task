@@ -40,7 +40,7 @@ This project is licensed under the [Skoltech Academic License](https://skoltech.
 For questions, suggestions, or issues, please feel free to [contact us](mailto:your-email@example.com).
 
 <br><br><br><br><br><br><br>
-![me](https://64.media.tumblr.com/6d890b1cb8bc5949064d23ac3b8356ba/92ea314c3fa08fb9-b4/s540x810/bb37da71ee9f4e2ec8168c51adbe240e2326f5ea.jpg)
+![me](https://external-preview.redd.it/K8f3uvSaYJcXQxSBa_NL9jY-Xe2XE77HnKUM5RBpJ58.jpg?auto=webp&s=24b0fc11ca2b8b7b3d85e650ac06c7b4ac679d71)
 
 ---
 
