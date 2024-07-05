@@ -29,7 +29,7 @@ This project is licensed under the [Skoltech Academic License](https://skoltech.
 
 ## Acknowledgments
 
-- Special thanks to the Human Connectome Project (HCP) for providing valuable resting state and task-based fMRI data and our mentor Mariya Zubrikhina
+- Special thanks to the Human Connectome Project (HCP) for providing valuable resting state and task-based fMRI data and our mentors Alexander Korotin, Mariya Zubrikhina
 
 ## Contact
 
