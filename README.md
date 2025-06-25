@@ -1,4 +1,4 @@
-# Rest2Task <a href=""><img src="pics/logo_round.png" align="right" width="150" ></a>  <h3> Generate-task-based-fMRI-using-resting-state-fMRI-image-to-image-task-Resting State to Task-based fMRI Generator </h3>
+# Rest2Task: Generate task-based fMRI using resting state fMRI image-to-image task
 
 ## Overview
 
@@ -27,9 +27,6 @@ To get started with using this tool, follow the instructions provided in the rea
 
 This project is licensed under the [Skoltech Academic License](https://skoltech.link.sendsay.ru/skoltech/5934,=0eFJuHmzJ2ZpovBFJQumjvg/8326,2649009,104417,?aHR0cHM6Ly93d3cuc2tvbHRlY2gucnUvYXBwL2RhdGEvdXBsb2Fkcy8yMDIzLzA5L1NBTF92LjEuMF9FTi5wZGY=).
 
-## Acknowledgments
-
-- Special thanks to the Human Connectome Project (HCP) for providing valuable resting state and task-based fMRI data and our mentors Alexander Korotin, Mariya Zubrikhina
 
 ## Contact
 
