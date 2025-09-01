@@ -4,7 +4,9 @@
 
 This repository provides a tool for generating task-based fMRI functional connectivity matrices from resting-state fMRI (rs-fMRI) using image-to-image mapping. The primary objective is to create task-related connectivity matrices, simulating different tasks, as included in the [Human Connectome Project (HCP)](https://www.humanconnectome.org/study/hcp-young-adult/data-releases) dataset.
 
-![Scheme of connectivity matrices estimation](pics/motivation.png)
+![Connectivity matrices estimation workflow](pics/motivation.png)
+
+*Figure: Overview of the connectivity matrices estimation process, showing the workflow from raw data input through preprocessing, analysis, and validation steps.*
 
 ## Motivation
 
