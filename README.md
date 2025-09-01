@@ -53,7 +53,4 @@ This project is licensed under the [Skoltech Academic License](https://skoltech.
 
 For questions, suggestions, or issues, please feel free to [contact us](mailto:ekaterina.antipushina@skoltech.ru).
 
-<br><br><br><br><br><br><br>
-![me](https://external-preview.redd.it/K8f3uvSaYJcXQxSBa_NL9jY-Xe2XE77HnKUM5RBpJ58.jpg?auto=webp&s=24b0fc11ca2b8b7b3d85e650ac06c7b4ac679d71)
-
 
